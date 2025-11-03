@@ -40,4 +40,4 @@ management:
 #    prefer-ip-address: true   # IP 주소로 등록되도록 설정
 
 member:
-  greeting: "Hello, Member!"
+  greeting: "Ciao, Member!"
